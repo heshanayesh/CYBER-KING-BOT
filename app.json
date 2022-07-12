@@ -1,0 +1,76 @@
+{
+  "name": "CYBER KING BOT- MD V1",
+  "description": "⎝🕊️𝙲𝚈𝙱𝙴𝚁-𝙺𝙸𝙽𝙶🕊️⎠ ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ ᴠ1.0.0",
+  "repository": "https://github.com/CyberKing4/CYBER-KING-BOT",
+  "logo": "https://i.ibb.co/YLN5KND/20220711-130334.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "env": { 
+        "ALIVE_MASSAGE": {
+            "description": "දැම්මෙ නෑ කියලා අවුලක් නෑ...",
+            "required": false,
+            "value":""
+        },
+        "OWNER_NUMBER": {
+            "description": "ඔයාගෙ නම්බර් එක දාන්න..",
+            "required": true,
+            "value":"94........"
+        },
+        "OWNER_NAME": {
+            "description": "ඔයාගෙ නම දාන්න...",
+            "required": true,
+            "value":"𝘾𝙔𝘽𝙀𝙍 𝙆𝙄𝙉𝙂"
+        },
+        "BOT_NAME": {
+            "description": "බොට්ගෙ නම...",
+            "required": true,
+            "value":"[🕊️𝙲𝚈𝙱𝙴𝚁-𝙺𝙸𝙽𝙶🕊️] ᎷᎠ"
+        },
+       "STICKER_PACKAGE": {
+            "description": "sticker පැකේජ් name එක දාන්න...",
+            "required": true,
+            "value":"[🕊️𝙲𝚈𝙱𝙴𝚁-𝙺𝙸𝙽𝙶-𝙱𝙾𝚃🕊️]"
+        },
+        "SESSION_NAME": {
+            "description": "වෙනස් කරන්නම එපා...",
+            "required": true,
+            "value":"session"
+        },
+        "SONG_DOWNLOAD": {
+            "description": "",
+            "required": true,
+            "value":"_*I'm Searching your song*_ ✨➾🔎"
+        },
+        "SOND_UPLOAD": {
+            "description": "",
+            "required": true,
+            "value":"_*I'm Uploading your song*_ ✨➾🎲"
+        },
+        "VIDEO_DOWNLOAD": {
+            "description": "",
+            "required": true,
+            "value":"_*I'm Bringing your song*_ ✨➾🔎"
+        },
+         "VIDEO_UPLOAD": {
+            "description": "",
+            "required": true,
+            "value":"_*I'm Uploading your song*_ ✨➾🎲"
+        }
+   },
+    "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ],
+   "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
