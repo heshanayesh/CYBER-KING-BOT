@@ -1436,7 +1436,7 @@ break
 │
 │🕊️ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀ ᴋɪɴɢ ₂₀₂₂
 ╰╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶◉`,
-                    footer: 'ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀ ᴋɪɴɢ',
+                    footer: 'POWERED BY CYBER KING',
                     buttons: buttons,
                     headerType: 4
                 }
@@ -1470,7 +1470,7 @@ break
 💠 Channel : ${anu.author.url}
 💠 Description : ${anu.description}
 💠 Url : ${anu.url}`,
-                    footer: 'ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀ ᴋɪɴɢ',
+                    footer: 'POWERED BY CYBER KING',
                     buttons: buttons,
                     headerType: 4
                 }
@@ -1501,7 +1501,7 @@ break
 │
 │🕊️ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀ ᴋɪɴɢ ₂₀₂₂
 ╰╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶◉`,
-                    footer: 'ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀ ᴋɪɴɢ',
+                    footer: 'POWERED BY CYBER KING',
                     buttons: buttons,
                     headerType: 4
                 }
@@ -1674,7 +1674,7 @@ Kingbotalive = `──┈┈┈┄┄╌╌╌╌┄┄┈┈┈──
                 let buttonMessage = {
                     image: fs.readFileSync('./src/alivelogo.jpg'),
                     caption: Kingbotalive,
-                    footer: 'ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀ ᴋɪɴɢ',
+                    footer: 'POWERED BY CYBER KING',
                     buttons: buttons,
                     headerType: 4
                 }
@@ -1709,7 +1709,7 @@ Kingbotinfo = `
                 let buttonMessage = {
                     image: fs.readFileSync('./src/bot.jpg'),
                     caption: Kingbotinfo,
-                    footer: 'ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀ ᴋɪɴɢ',
+                    footer: 'POWERED BY CYBER KING',
                     buttons: buttons,
                     headerType: 4
                 }
@@ -1766,7 +1766,7 @@ let buttons = [
                 let buttonMessage = {
                     image: fs.readFileSync('./src/bot.jpg'),
                     caption: kingbotcmd,
-                    footer: 'ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀ ᴋɪɴɢ',
+                    footer: 'POWERED BY CYBER KING',
                     buttons: buttons,
                     headerType: 4
                 }
@@ -1787,7 +1787,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedContentText: menu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./KINGMedia/logo.jpeg')}, 
-                            hydratedFooterText: 'ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀ ᴋɪɴɢ',
+                            hydratedFooterText: 'POWERED BY CYBER KING',
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: '🔥 YOUTUBE',
@@ -2004,7 +2004,7 @@ Kingbotehimenu = `🔥𝘾𝙔𝘽𝙀𝙍 𝙆𝙄𝙉𝙂 ᏴϴͲ ᎬᎻᏆ �
                 let buttonMessage = {
                     image: fs.readFileSync('./src/ehilogo.jpg'),
                     caption: Kingbotehimenu,
-                    footer: 'ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀ ᴋɪɴɢ',
+                    footer: 'POWERED BY CYBER KING',
                     buttons: buttons,
                     headerType: 4
                 }
@@ -2041,7 +2041,7 @@ kingbotehiapkmenu = `🔥𝘾𝙔𝘽𝙀𝙍 𝙆𝙄𝙉𝙂 ᏴϴͲ ᎬᎻᏆ
                 let buttonMessage = {
                     image: fs.readFileSync('./KINGMedia/logo.jpeg'),
                     caption: kingbotehiapkmenu,
-                    footer: 'ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀ ᴋɪɴɢ',
+                    footer: 'POWERED BY CYBER KING',
                     buttons: buttons,
                     headerType: 4
                 }
@@ -2168,7 +2168,7 @@ kingbotshortmenu = `
                 let buttonMessage = {
                     image: fs.readFileSync('./KINGMedia/logo.jpeg'),
                     caption: kingbotshortmenu,
-                    footer: 'ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀ ᴋɪɴɢ',
+                    footer: 'POWERED BY CYBER KING',
                     buttons: buttons,
                     headerType: 4
                 }
@@ -2192,7 +2192,7 @@ let buttons = [
                 let buttonMessage = {
                     image: fs.readFileSync('./src/bot.jpg'),
                     caption: Kingbotgitlink,
-                    footer: 'ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀ ᴋɪɴɢ',
+                    footer: 'POWERED BY CYBER KING',
                     buttons: buttons,
                     headerType: 4
                 }
