@@ -1786,7 +1786,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                         hydratedTemplate: {
                             hydratedContentText: menu,
                             locationMessage: {
-                            jpegThumbnail: fs.readFileSync('./KINGMedia/logo.jpeg')}, 
+                            jpegThumbnail: fs.readFileSync('./KINGMedia/logo.jpg')}, 
                             hydratedFooterText: 'POWERED BY CYBER KING',
                             hydratedButtons: [{
                                 urlButton: {
