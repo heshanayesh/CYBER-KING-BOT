@@ -1137,7 +1137,7 @@ break
                                     id: 'owner'
                                 }
                             }]
-                      let txt = `「 KING BOT HERE 」\n\n${text}`
+                      let txt = `「 CYBER KING BOT HERE 」\n\n${text}`
                       KingmdWH.send5ButImg(i, txt, KingmdWH.user.name, global.thumb, btn)
                     }
                 reply(`Successful Sending Broadcast To ${anu.length} Group(s)`)
@@ -1171,7 +1171,7 @@ break
                                     id: 'owner'
                                 }
                             }]
-                      let txt = `「 SHEWON-BOT HERE 」\n\n${text}`
+                      let txt = `「 CYBER KING BOT HERE 」\n\n${text}`
                       KingmdWH.send5ButImg(yoi, txt, KingmdWH.user.name, global.thumb, btn)
 		}
 		reply('Broadcast Success')
@@ -1721,7 +1721,7 @@ kingbotcmd = `[🕊️𝙲𝚈𝙱𝙴𝚁-𝙺𝙸𝙽𝙶-𝙱𝙾𝚃🕊️]
 ╹❝𝗦𝗥𝗜 𝗟𝗔𝗡𝗞𝗔 𝗕𝗘𝗦𝗧 𝗪𝗔 𝗕𝗢𝗧❞╹
 
 ╭────────────────◉
-│🎲 𝙾𝚆𝙽𝙴𝚁     ➢ 𝘾𝙔𝘽𝙀𝙍 𝙆𝙄𝙉𝙂
+│🎲 𝙾𝚆𝙽𝙴𝚁    ➢ 𝙎𝙃𝙀𝙒𝙊𝙉
 │🎲 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 ➢ NODE.js
 │🎲 𝙲𝙾 𝙾𝚆𝙽𝙴𝚁 ➢ 𝙼𝚁.ʀᴀᴠᴇᴇsʜᴀ
 ╰────────────────◉
