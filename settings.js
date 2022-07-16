@@ -12,10 +12,10 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94784997828']
-global.premium = ['94784997828']
-global.ownernomer = '94784997828'
-global.ownername = '𝘾𝙔𝘽𝙀𝙍 𝙆𝙄𝙉𝙂'
+global.owner = ['94778688185']
+global.premium = ['94778688185']
+global.ownernomer = '94778688185'
+global.ownername = 'Heshan Ayesh'
 global.botname = '[🕊️𝙲𝚈𝙱𝙴𝚁-𝙺𝙸𝙽𝙶-𝙱𝙾𝚃🕊️]'
 global.footer = 'POWERED BY CYBER KING'
 global.ig = 'https://github.com/CyberKing4'
